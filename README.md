@@ -8,7 +8,7 @@ Prework code for the CodePath course on Mobile Development
 
 ### App Walk-though
 
-<img src="https://recordit.co/vGxdIFcBLv" width=376><br>
+<img src="https://imgur.com/GcvP2f9" width=376><br>
 
 
 ### Required User Stories
